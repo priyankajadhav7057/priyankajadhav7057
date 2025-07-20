@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+![logo]((https://github.com/priyankajadhav7057/priyankajadhav7057/blob/main/Screenshot%202025-07-20%20230703.png))
 <h1 align="center">Hi 👋, I'm Priyanka Gaikwad</h1>
 <h3 align="center">A passionate Software Engineering Student from Mumbai, India</h3>
 
